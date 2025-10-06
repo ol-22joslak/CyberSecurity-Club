@@ -1,0 +1,13 @@
+Congrats, you found the hidden file. For your next task, you will need to decode the base64 file.
+
+To decode a base64 file, use the command:
+
+==============================================
+base64 -d name-of-file-to-decode
+==============================================
+
+This will print the name decoded contents of the file to the terminal.
+
+Base64 encoded files end in .b64
+
+Good Luck.
