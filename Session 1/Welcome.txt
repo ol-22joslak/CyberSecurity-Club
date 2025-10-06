@@ -1,1 +1,3 @@
+Congratulations , You successfully ssh'd into the server.
 
+For your next task, find the file named task 2.
